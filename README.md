@@ -42,6 +42,5 @@ Model training
    macro avg       0.73      0.74      0.73        74
 weighted avg       0.74      0.73      0.73        74
 
-
 >
 
